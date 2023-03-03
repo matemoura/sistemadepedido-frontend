@@ -1,5 +1,8 @@
 {
-  "name": "sistemadepedido-frontend",
-  "integrations": {},
-  "type": "ionic-angular"
+  "name": "sistemadepedidofrontend",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
